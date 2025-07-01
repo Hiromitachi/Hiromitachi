@@ -5,16 +5,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Dev+with+a+Designer%27s+Soul.;Lover+of+Code,+Creativity+%26+Caffeine.;Always+Building,+Designing,+Clicking+Magic!+💻+🎨+📸" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
-
----
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Hiromitachi/Hiromitachi/main/poster.png" width="700px" alt="Sumaiya Kalim Poster"/>
 </p>
 
